@@ -1,37 +1,71 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "NFT Drop Page",
+    "image": "/images/nft-drop.png",
+    "description": "NFT Drop page for my Gradients collection",
+    "tags": ["react", "next", "thirdweb", "tailwind", "web3"],
+    "source_code": "https://github.com/baggelisp/NFTs-Drop-App",
+    "demo": "https://gradients-nft-drops.vercel.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Decentralized Messaging App",
+    "image": "/images/nft-chat.png",
+    "description": "A Greek Cryptocurrency Community",
+    "tags": ["react", "next", "moralis", "tailwind", "web3"],
+    "demo": "https://chat-web3.vercel.app/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Angular Ngrx Store Pattern",
+    "image": "https://raw.githubusercontent.com/baggelisp/Angular-Service-Layer-Architecture-Ngrx-Store/master/images/2.png",
+    "description": "Using an NgRX Store Module in an Angular Application",
+    "tags": ["angular", "ngrx", "architecture"],
+    "source_code": "https://github.com/baggelisp/Angular-Service-Layer-Architecture-Ngrx-Store"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
+    "name": "Micro Frontends using Module Federation",
+    "image": "/images/mfs.png",
+    "description": "Using Module Federation in an Angular Application",
+    "tags": ["angular", "micro-frontends"],
+    "source_code": "https://github.com/baggelisp/Micro-Frontends-using-Module-Federation",
+    "demo": "https://amazing-tesla-c93d67.netlify.app/"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "image": "/images/weather-dashboard.png",
+    "description": "A weather dashboard application using Angular.",
+    "tags": ["angular", "ngrx"],
+    "source_code": "https://github.com/baggelisp/Weather-Dashboard"
+  },
+  {
+    "id": 6,
+    "name": "Digit Recognition MNIST ANN",
+    "image": "/images/impred.png",
+    "description": "A Fun Machine Learning Projects during the COVID-19 outbreak.",
+    "tags": ["python", "flask", "angular", "machine learning", "ANN"],
+    "source_code": "https://github.com/baggelisp/Digit-Recognition-MNIST-ANN",
+    "demo": "https://digit-recognition-mnist-ann.netlify.com/"
+  },
+  {
+    "id": 7,
+    "name": "Popular Movie App",
+    "image": "https://raw.githubusercontent.com/baggelisp/Popular-Movie-App/master/images/2.png",
+    "description": "A movie finder application using Angular.",
+    "tags": ["angular"],
+    "source_code": "https://github.com/baggelisp/Popular-Movie-App",
+    "demo": "https://popular-movie-app.netlify.app/"
+  },
+  {
+    "id": 8,
+    "name": "Predicting next days COVID-19 cases",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "description": "Predicting COVID-19 cases using Predicting Algorithms",
+    "tags": ["python", "machine learning"],
+    "source_code": "https://github.com/baggelisp/Predicting-next-days-COVID-19-cases/blob/master/PREDICTING_COVID_CASES_COLAB_NOTEBOOK.ipynb",
+    "demo": "https://github.com/baggelisp/Predicting-next-days-COVID-19-cases/blob/master/PREDICTING_COVID_CASES_COLAB_NOTEBOOK.ipynb"
   }
 ]

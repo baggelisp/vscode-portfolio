@@ -10,7 +10,7 @@ const ProjectCard = ({ project }) => {
         <p>{project.description}</p>
         <div className={styles.tags}>
           {project.tags.map((tag) => (
-            <span key={tag} className={tag}>
+            <span key={tag} className={tag} style={{border: "0.1rem solid rgb(97, 218, 251)"}}>
               {tag}
             </span>
           ))}
@@ -26,14 +26,18 @@ const ProjectCard = ({ project }) => {
               Source Code
             </a>
           )}
-          <a
-            href={project.demo}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.underline}
-          >
-            Live Demo
-          </a>
+          {
+            project.demo && (
+              <a
+                href={project.demo}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.underline}
+              >
+                Live Demo
+              </a>
+            )
+          }
         </div>
       </div>
     </div>
