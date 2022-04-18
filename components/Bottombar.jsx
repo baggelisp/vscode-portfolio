@@ -3,6 +3,7 @@ import WarningIcon from './icons/WarningIcon';
 import BellIcon from './icons/BellIcon';
 import CheckIcon from './icons/CheckIcon';
 import NextjsIcon from './icons/NextjsIcon';
+import AccountIcon from './icons/AccountIcon';
 import SourceControlIcon from './icons/SourceControlIcon';
 import styles from '../styles/Bottombar.module.css';
 
@@ -27,6 +28,10 @@ const Bottombar = () => {
         </div>
       </div>
       <div className={styles.container}>
+      <div className={styles.section}>
+          <AccountIcon className={styles.icon} />
+          <p>Developer by Nitin Ranganath</p>
+        </div>
         <div className={styles.section}>
           <NextjsIcon className={styles.icon} />
           <p>Powered by Next.js</p>
