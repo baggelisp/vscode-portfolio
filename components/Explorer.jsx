@@ -16,6 +16,16 @@ const explorerItems = [
     icon: 'html_icon.svg',
   },
   {
+    name: 'resume.html',
+    path: '/resume',
+    icon: 'angular.svg',
+  },
+  {
+    name: 'experience.html',
+    path: '/experience',
+    icon: 'scss.svg',
+  },
+  {
     name: 'contact.css',
     path: '/contact',
     icon: 'css_icon.svg',
