@@ -16,12 +16,12 @@ const explorerItems = [
     icon: 'html_icon.svg',
   },
   {
-    name: 'resume.html',
+    name: 'resume.component.ts',
     path: '/resume',
     icon: 'angular.svg',
   },
   {
-    name: 'experience.html',
+    name: 'experience.scss',
     path: '/experience',
     icon: 'scss.svg',
   },

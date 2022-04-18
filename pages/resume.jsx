@@ -3,13 +3,11 @@ const ResumePage = () => {
       <>
         <div>
             <div>
-                <h2>DOWNLOAD MY CV
-                </h2>
-                <p>Find out what I've accomplished over the years
-                </p>
+                <h2>DOWNLOAD MY CV</h2>
+                <p>Find out what I've accomplished over the years.</p>
             </div>
             <div>
-                <a target="_blank" href="/files/Vangelis_Spathonis_CV.pdf">Download Resume</a>
+                <a target="_blank" href="/files/Vangelis_Spathonis__CV.pdf">Download Resume</a>
             </div>
         </div>
       </>
