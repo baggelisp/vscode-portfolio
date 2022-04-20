@@ -14,6 +14,7 @@
     "image": "/images/nft-chat.png",
     "description": "A Greek Cryptocurrency Community",
     "tags": ["react", "next", "moralis", "tailwind", "web3"],
+    "source_code": "https://github.com/baggelisp/Chat-Web3",
     "demo": "https://chat-web3.vercel.app/"
   },
   {
