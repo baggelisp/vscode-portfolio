@@ -1,5 +1,14 @@
 [
   {
+    "id": 9,
+    "name": "The movies application",
+    "image": "https://raw.githubusercontent.com/baggelisp/The-Movies-Application/master/images/2.png",
+    "description": "A movie finder application using Angular.",
+    "tags": ["angular"],
+    "source_code": "https://github.com/baggelisp/The-Movies-Application",
+    "demo": "https://the-movies-application.vercel.app/"
+  },
+  {
     "id": 1,
     "name": "NFT Drop Page",
     "image": "/images/nft-drop.png",
