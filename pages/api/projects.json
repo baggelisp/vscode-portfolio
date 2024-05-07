@@ -44,38 +44,12 @@
     "demo": "https://amazing-tesla-c93d67.netlify.app/"
   },
   {
-    "id": 5,
-    "name": "Weather Dashboard",
-    "image": "/images/weather-dashboard.png",
-    "description": "A weather dashboard application using Angular.",
-    "tags": ["angular", "ngrx"],
-    "source_code": "https://github.com/baggelisp/Weather-Dashboard"
-  },
-  {
-    "id": 6,
-    "name": "Digit Recognition MNIST ANN",
-    "image": "/images/impred.png",
-    "description": "A Fun Machine Learning Projects during the COVID-19 outbreak.",
-    "tags": ["python", "flask", "angular", "machine learning", "ANN"],
-    "source_code": "https://github.com/baggelisp/Digit-Recognition-MNIST-ANN",
-    "demo": "https://digit-recognition-mnist-ann.netlify.com/"
-  },
-  {
-    "id": 7,
-    "name": "Popular Movie App",
-    "image": "https://raw.githubusercontent.com/baggelisp/Popular-Movie-App/master/images/2.png",
-    "description": "A movie finder application using Angular.",
-    "tags": ["angular"],
-    "source_code": "https://github.com/baggelisp/Popular-Movie-App",
-    "demo": "https://popular-movie-app.netlify.app/"
-  },
-  {
-    "id": 8,
-    "name": "Predicting next days COVID-19 cases",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "Predicting COVID-19 cases using Predicting Algorithms",
-    "tags": ["python", "machine learning"],
-    "source_code": "https://github.com/baggelisp/Predicting-next-days-COVID-19-cases/blob/master/PREDICTING_COVID_CASES_COLAB_NOTEBOOK.ipynb",
-    "demo": "https://github.com/baggelisp/Predicting-next-days-COVID-19-cases/blob/master/PREDICTING_COVID_CASES_COLAB_NOTEBOOK.ipynb"
+      "id": 7,
+      "name": "Popular Movie App",
+      "image": "https://raw.githubusercontent.com/baggelisp/Popular-Movie-App/master/images/2.png",
+      "description": "A movie finder application using Angular.",
+      "tags": ["angular"],
+      "source_code": "https://github.com/baggelisp/Popular-Movie-App",
+      "demo": "https://popular-movie-app.netlify.app/"
   }
 ]
